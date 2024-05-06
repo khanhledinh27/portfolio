@@ -1,0 +1,14 @@
+nav a:after {
+    display:block;
+    content: '';
+    border-bottom: solid 3px black;  
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+  }
+nav a:hover:after { transform: scaleX(1); }
+
+.active{
+  font-size: 20px;
+  color: black;
+  text-transform: uppercase;
+}
