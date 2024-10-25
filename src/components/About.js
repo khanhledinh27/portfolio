@@ -16,7 +16,7 @@ export default function About(){
 
           <div className="lg:flex-grow md:w-1/2 flex flex-col  md:items-start md:text-left mb-16 md:mb-0  items-center text-center">
             <h1 className="text-black text-2xl pb-2">My name is Khanh</h1>
-            <p className="pb-2"> 3rd-years of Van Lang University</p>
+            <p className="pb-2"> Senior student of Van Lang University</p>
             <p className="text-black ">When I was a kid, I was always told my parents that:</p>
             <br></br>
             <p className="text-black ">"I will be a Software Engineer in the future!"</p>
