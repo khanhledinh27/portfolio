@@ -37,7 +37,7 @@ export default function Contact(){
                     <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://drive.google.com/file/d/1zIzFZLqWu1tsUKRAJff-0QF5Z-tfHrSp/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1QcqupZYMRGjVnaETRs9zFbTCGPr8O13y/view?usp=sharing"
                     className="">
                     [LeDinhKhanh_Front-end_ReactJS_CV]
                   </a>
