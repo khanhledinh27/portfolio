@@ -1,15 +1,15 @@
 export const projects = [
   {
     title: "Book Store",
-    subtitle: "CRUD",
+    subtitle: "MERN Stack",
     description:
-      "This is my 1st project about e-commerce website, a book store where I can manage and sell my products.",
-    language: "PHP",
-    framework: "Bootstrap",
+      "This is my 1st project about e-commerce website, a book store where I can show and sell my products.",
+    language: "NodeJS",
+    framework: "ReactJS",
     framework2: "Tailwind CSS",
-    database: "MySQL",
-    image: "./project1.png",
-    link: "https://natasabookstore.000webhostapp.com/home.php",
+    database: "MongoDB",
+    image: "./project1.jpg",
+    link: "https://natasa-store.onrender.com/",
   },
   {
     title: "Game Store",
@@ -64,8 +64,8 @@ export const skills = [
     image:"./js_logo.svg",
   },
   {
-    title:"Bootstrap",
-    image:"./bootstrap_logo.svg",
+    title:"Tailwind CSS",
+    image:"./tailwind_logo.svg",
   },
   {
     title:"MongoDB",
