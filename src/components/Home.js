@@ -67,7 +67,7 @@ export default function Home() {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://drive.google.com/file/d/1QcqupZYMRGjVnaETRs9zFbTCGPr8O13y/view?usp=sharing"
+                href="https://drive.google.com/file/d/1M5ujMWFmRhRA5Ztk9Z-A9_twuPPAZXqu/view?usp=sharing"
                 className="inline-flex rounded text-white bg-black border-solid border py-2 px-2 md:py-2 md:px-6  focus:outline-none hover:bg-white hover:text-black hover:border-black hover:border-2 text-lg">
                 Download CV
               </a>
